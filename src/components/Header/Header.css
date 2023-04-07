@@ -1,9 +1,17 @@
 nav{
     background-color: coral;
     padding: 20px 0;
+    position: sticky;
+    top: 0;
     
 }
 nav a {
     margin-left: 15px;
     color: white;
+}
+.red{
+    background-color: white;
+    color: coral;
+    padding: 5px 8px;
+    border-radius: 3px;
 }
