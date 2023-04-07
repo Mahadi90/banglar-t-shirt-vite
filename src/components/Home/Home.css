@@ -6,7 +6,9 @@
 .shirts-parent{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
 }
 .cart-container{
- 
+ background-color: antiquewhite;
+ padding: 10px;
 }
